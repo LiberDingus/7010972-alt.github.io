@@ -1,13 +1,15 @@
-//Grid Assignment
-//I am adding onto my arrays project so you can find most of my grid assignment work near the bottom of my code
+//SDS
+//this is a geoguessr style game with many many features
 
 //Bertin Li
-//March 5/26
 
 //Making maps on https://map-degen.vercel.app/
 //Converting them to coords at https://education.openguessr.com/tools/map-converter
 //I used leaflet maps which somehow had everything I needed like getting corrdinates from where I clicked, and adding markers and many more
 //the Leaflet website was incredibly easy to follow aswell https://leafletjs.com/examples.html
+
+//I started my project a while ago during the arrays project and it has come a long way since then
+
 
 //set up p5 party
 let shared;
